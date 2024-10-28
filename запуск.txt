@@ -1,0 +1,1 @@
+streamlit run e:/Python/Тренировка/giga_chat/chatbot_python_gigachat/main.py
